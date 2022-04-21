@@ -1,0 +1,8 @@
+C:\Users\MY-PC\Desktop\ResponsiPemograman4479\ResponsiPemograman4479\bin\Debug\ResponsiPemograman4479.exe.config
+C:\Users\MY-PC\Desktop\ResponsiPemograman4479\ResponsiPemograman4479\bin\Debug\ResponsiPemograman4479.exe
+C:\Users\MY-PC\Desktop\ResponsiPemograman4479\ResponsiPemograman4479\bin\Debug\ResponsiPemograman4479.pdb
+C:\Users\MY-PC\Desktop\ResponsiPemograman4479\ResponsiPemograman4479\obj\Debug\ResponsiPemograman4479.csproj.AssemblyReference.cache
+C:\Users\MY-PC\Desktop\ResponsiPemograman4479\ResponsiPemograman4479\obj\Debug\ResponsiPemograman4479.csproj.SuggestedBindingRedirects.cache
+C:\Users\MY-PC\Desktop\ResponsiPemograman4479\ResponsiPemograman4479\obj\Debug\ResponsiPemograman4479.csproj.CoreCompileInputs.cache
+C:\Users\MY-PC\Desktop\ResponsiPemograman4479\ResponsiPemograman4479\obj\Debug\ResponsiPemograman4479.exe
+C:\Users\MY-PC\Desktop\ResponsiPemograman4479\ResponsiPemograman4479\obj\Debug\ResponsiPemograman4479.pdb
